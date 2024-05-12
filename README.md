@@ -14,5 +14,16 @@
 This analysis demonstrates my ability to derive actionable insights from complex datasets, offering valuable strategic guidance for policymakers, investors, and stakeholders.
 
  
-![PDF](https://docs.google.com/viewer?url=https://1drv.ms/b/c/3a385a8883f3623d/EY45ew2KeLpItmn4SP-t0fEByW_klHCB1UYFiXELVQoaFQ?e=pXJvyU)
+ 
+from pdf2image import convert_from_path
+
+ 
+pdf_path =  'https://1drv.ms/b/c/3a385a8883f3623d/EY45ew2KeLpItmn4SP-t0fEByW_klHCB1UYFiXELVQoaFQ?e=pXJvyU'
+
+ 
+images = convert_from_path(pdf_path)
+
+for i, image in enumerate(images):
+    image.save(f'page_{i+1}.png', 'PNG')
+
 
