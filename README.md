@@ -2,7 +2,7 @@
 
 ## Performed an extensive analysis of three pivotal datasets, providing valuable insights into Telangana's development trajectory across various sectors.
 
-Stamp Analysis:
+### Stamp Analysis:
                 Conducted in-depth analysis of Document Registration and E-Stamp Challan data, identifying top 5 registered documents and E-Stamp Challans by district. Conducted trend analysis over the past 5 years, offering valuable perspectives for efficient governance and regulatory enhancement.
 
 Telangana Transportation Analysis:
