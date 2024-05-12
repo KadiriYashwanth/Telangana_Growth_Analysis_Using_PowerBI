@@ -1,5 +1,7 @@
 # Telangana_Growth_Analysis_Using_PowerBI
 
+[Dashboard_Link](https://1drv.ms/b/c/3a385a8883f3623d/EY45ew2KeLpItmn4SP-t0fEByW_klHCB1UYFiXELVQoaFQ?e=pXJvyU)
+
 ## Performed an extensive analysis of three pivotal datasets, providing valuable insights into Telangana's development trajectory across various sectors.
 
 1.Stamp Analysis:
@@ -15,15 +17,4 @@ This analysis demonstrates my ability to derive actionable insights from complex
 
  
  
-from pdf2image import convert_from_path
-
- 
-pdf_path =  'https://1drv.ms/b/c/3a385a8883f3623d/EY45ew2KeLpItmn4SP-t0fEByW_klHCB1UYFiXELVQoaFQ?e=pXJvyU'
-
- 
-images = convert_from_path(pdf_path)
-
-for i, image in enumerate(images):
-    image.save(f'page_{i+1}.png', 'PNG')
-
 
