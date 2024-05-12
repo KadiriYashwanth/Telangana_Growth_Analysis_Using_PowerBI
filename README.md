@@ -13,4 +13,6 @@
 
 This analysis demonstrates my ability to derive actionable insights from complex datasets, offering valuable strategic guidance for policymakers, investors, and stakeholders.
 
-![PDF](https://1drv.ms/b/c/3a385a8883f3623d/EY45ew2KeLpItmn4SP-t0fEByW_klHCB1UYFiXELVQoaFQ?e=pXJvyU)
+ 
+![PDF](https://docs.google.com/viewer?url=https://1drv.ms/b/c/3a385a8883f3623d/EY45ew2KeLpItmn4SP-t0fEByW_klHCB1UYFiXELVQoaFQ?e=pXJvyU)
+
