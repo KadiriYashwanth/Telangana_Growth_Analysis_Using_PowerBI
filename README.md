@@ -1,6 +1,6 @@
 # Telangana_Growth_Analysis_Using_PowerBI
 
-  [Dashboard Link](https://1drv.ms/b/c/3a385a8883f3623d/EY45ew2KeLpItmn4SP-t0fEByW_klHCB1UYFiXELVQoaFQ?e=pXJvyU)
+ ## [Dashboard Link](https://1drv.ms/b/c/3a385a8883f3623d/EY45ew2KeLpItmn4SP-t0fEByW_klHCB1UYFiXELVQoaFQ?e=pXJvyU)
 
 ## Performed an extensive analysis of three pivotal datasets, providing valuable insights into Telangana's development trajectory across various sectors.
 
